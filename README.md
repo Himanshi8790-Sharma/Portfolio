@@ -1,69 +1,55 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # 🌐 Personal Portfolio Website
 
-This is my **Personal Portfolio Website** which I have created using **HTML, CSS, and JavaScript**.  
-It is **fully responsive** and includes the following pages:
-
-- ✅ Home  
-- ✅ Services  
-- ✅ Resume  
-- ✅ Portfolio  
-- ✅ About Us  
-
-The purpose of this project is to showcase my **web development skills** and create a professional online presence.
+This is my **Personal Portfolio Website** built using **React + Vite + Tailwind CSS**.  
+It is **fully responsive** and showcases my skills, projects, and resume in a clean modern UI.  
 
 ---
 
-## 🔗 Live Demo  
-
-➡️ [Click Here]( https://himanshi8790-sharma.github.io/My-Portfolio/)
-
----
-
-## ✨ Features
-
-- Fully Responsive (Desktop, Tablet, Mobile)
-- Modern and Clean UI/UX Design
-- Smooth Navigation
-- Interactive Animations
-- Simple & Clean Code Structure
-- Easy to Customize
+## 🚀 Live Demo  
+🔗 [Click Here](https://himanshi8790-sharma.github.io/My-Portfolio/)
 
 ---
 
-## 🛠️ Technologies Used
-
-| Technology  | Purpose             |
-|-------------|---------------------|
-| HTML5       | Markup Structure     |
-| CSS3        | Styling / Responsiveness |
-| JavaScript  | Interactivity        |
+## ✨ Features  
+- ✅ Home Page with Hero Section  
+- ✅ Resume Section (Education, Skills, Experience)  
+- ✅ Portfolio Section (Projects Showcase with Tech Stack)  
+- ✅ Contact Page with Form  
+- ✅ Responsive Design (Mobile, Tablet, Desktop)  
+- 🎨 Modern UI with Tailwind CSS  
+- ⚡ Built with React + Vite for fast performance  
 
 ---
 
+## 🛠️ Tech Stack  
+
+| Technology     | Purpose                          |
+|----------------|----------------------------------|
+| ⚛️ React       | Component-based UI               |
+| ⚡ Vite        | Fast bundler & dev server        |
+| 🎨 TailwindCSS | Styling & Responsiveness         |
+| 🌐 HTML5       | Structure                        |
+| 🎭 CSS3        | Animations & Transitions         |
+| 🧩 JavaScript  | Functionality & Interactivity    |
+
+---
+
+## 📂 Folder Structure  
+My-Portfolio/
+├── public/ # Static assets
+├── src/
+│ ├── components/ # Reusable Components
+│ ├── pages/ # Home, About, Resume, Portfolio, Contact
+│ ├── App.jsx # Main App
+│ └── index.css # Global Styles
+├── package.json
+└── README.md
+
+----
 ## 👩‍💻 About Me  
+I’m **Himanshi Sharma**, an aspiring **Full Stack Developer** skilled in  
+**React, Tailwind CSS, JavaScript, and MERN Stack**.  
 
-I have designed and developed this **Portfolio Website** using **HTML, CSS, and JavaScript** to showcase my work, skills, and services in the field of **Web Development**.
+This portfolio is a reflection of my work, projects, and journey in web development.  
 
 ---
-Let me know if you want:
-- **Custom icons/badges for technologies**
-- **A short About Me section written more personally**
-- **Deployed GitHub Pages setup steps**
-
-Just tell me!
-
->>>>>>> 61a468821199e1ae54dac2669db71b980cbed438
