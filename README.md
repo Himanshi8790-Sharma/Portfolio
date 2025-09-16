@@ -6,7 +6,7 @@ It is **fully responsive** and showcases my skills, projects, and resume in a cl
 ---
 
 ## 🚀 Live Demo  
-🔗 [Click Here](https://himanshi8790-sharma.github.io/My-Portfolio/)
+🔗 [Click Here](https://portfolio-cyan-beta-dgxjfxgfcn.vercel.app/)
 
 ---
 
