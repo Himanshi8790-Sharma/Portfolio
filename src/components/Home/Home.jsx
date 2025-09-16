@@ -26,7 +26,7 @@ function Home() {
           {/* Buttons & Icons */}
           <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6 mt-6 md:mt-8 justify-center md:justify-start">
             <a
-              href="/resume.pdf"
+              href="/Himanshi.pdf"
               className="inline-block py-3 px-8 sm:py-4 sm:px-12 border-[0.2rem] border-[var(--main-color)] rounded-full shadow-[0_0_1rem_#7CFC00] text-[#071422] bg-[#7CFC00] transition duration-500 hover:bg-transparent hover:text-[#7CFC00] hover:shadow-none text-sm sm:text-base"
             >
               Download Resume
