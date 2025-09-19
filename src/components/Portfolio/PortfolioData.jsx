@@ -44,7 +44,7 @@ const PortfolioData = [
     title: "Quiz App",
     description:
       "An interactive quiz application that displays multiple-choice questions, tracks the user's score, and shows results upon completion.",
-    tech: ["HTML5", "Tailwind CSS", "React"],
+    tech: ["HTML5", " CSS3", "JavaScript"],
     liveLink: "https://himanshi8790-sharma.github.io/Quiz-App/",
     githubLink: "https://github.com/Himanshi8790-Sharma/Quiz-App",
     image: "/Images/Project5.png",
